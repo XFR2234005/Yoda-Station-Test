@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 - Yoda Portal Access - First Login with chosen project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0210d36c-8e5a-4c60-a9e7-4b1ef294ae85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>457b4a40-df75-4675-b34f-544bd1101fed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37fa80ba-cc3d-4e7c-a8c2-8e9f7bb108ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>741f3f8c-6bab-4c35-bedb-1c8963919fd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'XFR2206005'</defaultValue>
+      <description></description>
+      <id>457b4a40-df75-4675-b34f-544bd1101fed</id>
+      <masked>false</masked>
+      <name>username_Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pass03@word'</defaultValue>
+      <description></description>
+      <id>37fa80ba-cc3d-4e7c-a8c2-8e9f7bb108ee</id>
+      <masked>true</masked>
+      <name>password_Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please choose your country. This choice will help us to give you the correct credentials on Yoda Platform. BE CAREFULL the choice can\'t be modified after by yourself.'</defaultValue>
+      <description></description>
+      <id>741f3f8c-6bab-4c35-bedb-1c8963919fd0</id>
+      <masked>false</masked>
+      <name>Text</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_deprecated</name>
+   <tag></tag>
+   <elementGuidId>24f5a62c-3573-469c-937f-32ddc607ab61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']//table/tbody/tr[9]/td[2]/span/span[contains(text(),'deprecated')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ma-1.v-chip.theme--light.v-size--default.red.white--text > span.v-chip__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cf0d278-4863-4c24-9993-ab7e39548312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-chip__content</value>
+      <webElementGuid>4bc319b8-bf9f-4195-81ca-98f308fb2881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                 deprecated
+              </value>
+      <webElementGuid>bd28361b-00e2-461e-beab-768e8b8c465c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-content&quot;]/div[@class=&quot;v-content__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;v-tabs theme--dark&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/div[@class=&quot;mx-auto v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;v-data-table v-data-table--dense theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[9]/td[2]/span[@class=&quot;ma-1 v-chip theme--light v-size--default red white--text&quot;]/span[@class=&quot;v-chip__content&quot;]</value>
+      <webElementGuid>ca8cd2b4-8f15-4ec8-8eed-df052a9bb173</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[9]/td[2]/span/span</value>
+      <webElementGuid>c1386efd-6122-4cc1-998a-d1299aab3964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/following::span[2]</value>
+      <webElementGuid>b15831e6-658d-499c-bb51-d2c71d4bed4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sort'])[1]/following::span[2]</value>
+      <webElementGuid>b7dd0c00-6528-4e68-b9f2-954f3e8cda4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='technical'])[1]/preceding::span[1]</value>
+      <webElementGuid>489846ab-d0c0-4372-a557-22f8c4d9f13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mappings (click on label to open)'])[1]/preceding::span[3]</value>
+      <webElementGuid>57d07a7f-d096-4d6e-ac02-f450e9723338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='deprecated']/parent::*</value>
+      <webElementGuid>b8fe70e6-f4ae-4e99-ba73-31b4b3ee9bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[2]/span/span</value>
+      <webElementGuid>2b927e34-7ff2-4921-8443-2dbb2a901901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                 deprecated
+              ' or . = '
+                 deprecated
+              ')]</value>
+      <webElementGuid>d6d17f8d-15b7-4068-811e-f8065a4ca716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

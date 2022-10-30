@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Flow Documentation_icon</name>
+   <tag></tag>
+   <elementGuidId>c24a98a9-3dc9-4c65-8c56-9f4751d9b1ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-swap-horizontal-bold.theme--dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/nav/div/div/div[2]/div[2]/div/div[2]/div/a/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a7157b2a-07ae-430d-94b3-a4a8dc74d2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5b42c347-89a5-4217-a3f9-b56b5c562524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-swap-horizontal-bold theme--dark</value>
+      <webElementGuid>8c1c1082-3604-4221-b688-51c7b94a94dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[2]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--open theme--dark&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list py-0 v-sheet v-sheet--tile theme--dark v-list--dense v-list--nav&quot;]/div[@class=&quot;v-list v-sheet v-sheet--tile theme--dark&quot;]/div[2]/div[@class=&quot;v-list-group v-list-group--active v-list-group--no-action primary--text&quot;]/div[@class=&quot;v-list-group__items&quot;]/div[1]/a[@class=&quot;v-list-item v-list-item--link theme--dark&quot;]/div[@class=&quot;v-list-item__icon mr-2&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-swap-horizontal-bold theme--dark&quot;]</value>
+      <webElementGuid>d5bcb785-4a71-430f-9ab7-0ceab0bd7a1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/nav/div/div/div[2]/div[2]/div/div[2]/div/a/div/i</value>
+      <webElementGuid>07ea71aa-ba64-4910-98a7-7e3cbc6c54d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a/div/i</value>
+      <webElementGuid>008e4829-0712-4899-955a-a9d123a862de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

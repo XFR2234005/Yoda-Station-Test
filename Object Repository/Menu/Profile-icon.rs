@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile-icon</name>
+   <tag></tag>
+   <elementGuidId>22268b5b-b301-482d-b5ca-32ce3061bc9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-account.theme--dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/nav/div/div/div[2]/div[8]/a/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bd469e49-ed59-4c48-8f0a-821045e8d2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>aca7b239-41e6-4d3e-a321-4b6cd6671e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-account theme--dark</value>
+      <webElementGuid>4ccb4679-67bb-4c43-8a36-67ca9084d277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[2]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--open theme--dark&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list py-0 v-sheet v-sheet--tile theme--dark v-list--dense v-list--nav&quot;]/div[@class=&quot;v-list v-sheet v-sheet--tile theme--dark&quot;]/div[8]/a[@class=&quot;v-list-item v-list-item--link theme--dark&quot;]/div[@class=&quot;v-list-item__icon&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-account theme--dark&quot;]</value>
+      <webElementGuid>a9c8b7cb-8d1d-4597-af23-1e6f236ac35c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/nav/div/div/div[2]/div[8]/a/div/i</value>
+      <webElementGuid>488fa593-5767-4f0c-b210-b7ab6aa47671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/div/i</value>
+      <webElementGuid>0d81dc64-4789-442f-ae6b-b98d6e9881ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 - Yoda Portal Access - Login to Keycloak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8b33a2f-2d8c-4917-b96e-a100601a170f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93f89b38-8063-4383-b600-1b1ea7a283af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f366d92-566e-42cb-9bf9-fc4511815f94</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test-auto'</defaultValue>
+      <description></description>
+      <id>93f89b38-8063-4383-b600-1b1ea7a283af</id>
+      <masked>false</masked>
+      <name>usr_keycloak</name>
+   </variable>
+   <variable>
+      <defaultValue>'36ir2JbkFBN9'</defaultValue>
+      <description></description>
+      <id>8f366d92-566e-42cb-9bf9-fc4511815f94</id>
+      <masked>true</masked>
+      <name>pwd_keycloak</name>
+   </variable>
+</TestCaseEntity>

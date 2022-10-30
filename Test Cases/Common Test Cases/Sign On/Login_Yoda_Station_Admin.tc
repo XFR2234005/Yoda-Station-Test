@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Yoda_Station_Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1569212a-15c7-4ae8-9a9c-a495edf56a7d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94e98200-8e3b-4745-9cd0-e482ba04c541</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>778e6f2a-9ac8-479e-b589-597b2f2aaa83</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin_user'</defaultValue>
+      <description></description>
+      <id>94e98200-8e3b-4745-9cd0-e482ba04c541</id>
+      <masked>false</masked>
+      <name>Login_Admin</name>
+   </variable>
+   <variable>
+      <defaultValue>'d7ywy4asdkunyV'</defaultValue>
+      <description></description>
+      <id>778e6f2a-9ac8-479e-b589-597b2f2aaa83</id>
+      <masked>true</masked>
+      <name>Password_Admin</name>
+   </variable>
+</TestCaseEntity>

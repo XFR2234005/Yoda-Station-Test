@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Yoda Flow sheet</name>
+   <tag></tag>
+   <elementGuidId>d4a21f78-6368-4eab-919a-d47185fe4e1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-list-group__items > div > a.v-list-item.v-list-item--link.theme--dark > div.v-list-item__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/nav/div/div/div[2]/div[2]/div/div[2]/div/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f022d0f-0791-484a-b4ba-929f282d0cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>762491fe-2e70-43b6-b7f0-6eb5b673a574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yoda Flow sheet</value>
+      <webElementGuid>6631c1aa-e5aa-4d0e-b2b8-5884e785087f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[2]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--open theme--dark&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list py-0 v-sheet v-sheet--tile theme--dark v-list--dense v-list--nav&quot;]/div[@class=&quot;v-list v-sheet v-sheet--tile theme--dark&quot;]/div[2]/div[@class=&quot;v-list-group v-list-group--active v-list-group--no-action primary--text&quot;]/div[@class=&quot;v-list-group__items&quot;]/div[1]/a[@class=&quot;v-list-item v-list-item--link theme--dark&quot;]/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>ba7e4ca5-9fa3-4578-9c16-4fe3026a358a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/nav/div/div/div[2]/div[2]/div/div[2]/div/a/div[2]</value>
+      <webElementGuid>00fa72a6-80cf-47ac-b0d9-c1a194ed8cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Documentation'])[1]/following::div[5]</value>
+      <webElementGuid>080077cf-498c-44b6-8aad-fef0506e7206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[11]</value>
+      <webElementGuid>6e002d73-5b79-4462-a328-9a5fbfc82188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deployment sheet'])[1]/preceding::div[3]</value>
+      <webElementGuid>0d1ceabe-0d91-4c3e-bb37-06c103b56217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a/div[2]</value>
+      <webElementGuid>9296a0c5-9b50-4298-8b23-bcd50100f5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Yoda Flow sheet' or . = 'Yoda Flow sheet')]</value>
+      <webElementGuid>101d36c1-3eb2-44e6-beae-33dc01862771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

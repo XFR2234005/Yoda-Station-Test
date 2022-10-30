@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title1_Portal_Yoda</name>
+   <tag></tag>
+   <elementGuidId>00d9c1ee-33c4-4857-951a-1f31821e618f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-toolbar__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bookmark']/header/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab756ff1-79df-4388-984e-48b05aec8674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-toolbar__title</value>
+      <webElementGuid>a211101e-1cb4-4ba8-8df8-03415b33ee30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Portal YODAThe only one portal to access to all your Yoda services!</value>
+      <webElementGuid>a80da57d-8b28-40bd-abb1-cf9a4a15e732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bookmark&quot;)/header[@class=&quot;v-sheet v-sheet--tile theme--dark v-toolbar v-toolbar--extended v-toolbar--flat&quot;]/div[@class=&quot;v-toolbar__content&quot;]/div[@class=&quot;v-toolbar__title&quot;]</value>
+      <webElementGuid>190bee18-a12d-4b25-bf33-0f7889feea85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bookmark']/header/div/div[2]</value>
+      <webElementGuid>fd3eea98-cc78-44c9-b115-ca5390b5c030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMMON'])[1]/preceding::div[4]</value>
+      <webElementGuid>87f169d4-f3b8-4643-9188-bde9b2817f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div[2]</value>
+      <webElementGuid>e81bd9ea-afca-4636-9acc-6889927f46ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      Portal YODAThe only one portal to access to all your Yoda services!' or . = '
+      Portal YODAThe only one portal to access to all your Yoda services!')]</value>
+      <webElementGuid>0a6a4134-d51f-4aa2-b0ce-46f847dcad5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

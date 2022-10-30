@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004 - Yoda Portal Access - Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6e37be1-981e-459d-ac4f-7e8894b8cd3d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97d5fcbb-a6b7-4de5-ba63-f2a890c76965</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4337e9f6-e93f-4b5e-89af-6d361b5cb291</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c89305b-99bc-4c9d-ab56-013af9e389d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'XFR2206005'</defaultValue>
+      <description></description>
+      <id>97d5fcbb-a6b7-4de5-ba63-f2a890c76965</id>
+      <masked>false</masked>
+      <name>username_Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pass03@word'</defaultValue>
+      <description></description>
+      <id>4337e9f6-e93f-4b5e-89af-6d361b5cb291</id>
+      <masked>true</masked>
+      <name>password_Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please choose your country. This choice will help us to give you the correct credentials on Yoda Platform. BE CAREFULL the choice can\'t be modified after by yourself.'</defaultValue>
+      <description></description>
+      <id>6c89305b-99bc-4c9d-ab56-013af9e389d7</id>
+      <masked>false</masked>
+      <name>Text</name>
+   </variable>
+</TestCaseEntity>

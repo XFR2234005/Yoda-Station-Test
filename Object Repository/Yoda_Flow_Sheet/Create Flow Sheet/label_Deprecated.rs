@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Deprecated</name>
+   <tag></tag>
+   <elementGuidId>595ca5a0-0773-49b5-9a83-11c3361ce686</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.col-6 > div.v-input.theme--light.v-input--selection-controls.v-input--switch > div.v-input__control > div.v-input__slot > label.v-label.theme--light</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Deprecated' or . = 'Deprecated')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1a67713b-ffe7-441d-84e3-2870b747da07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-523</value>
+      <webElementGuid>178b5896-09cd-4aae-ad3a-934537b9fcca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-label theme--light</value>
+      <webElementGuid>8b5592fd-fb37-4447-9547-6aa7b21fef82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deprecated</value>
+      <webElementGuid>a02d7650-7f0d-4e2e-8e54-b85c7233c47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-6&quot;]/div[@class=&quot;v-input theme--light v-input--selection-controls v-input--switch&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/label[@class=&quot;v-label theme--light&quot;]</value>
+      <webElementGuid>a9236424-4add-4ca8-9049-cc22d0f16dcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/form/div/div[11]/div/div/div/div/label</value>
+      <webElementGuid>fa8938c7-0a30-4ee9-a2a7-bdbe5aa3b396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logical Flow Ids'])[1]/following::label[1]</value>
+      <webElementGuid>9b377d57-9866-4858-b7a3-5a1fa1258f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integration Patterns'])[1]/following::label[2]</value>
+      <webElementGuid>215215bf-0097-4097-bca7-b09fa6f9be75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical'])[1]/preceding::label[1]</value>
+      <webElementGuid>ebf4d20a-03b8-4b83-ba10-01be4ef3ed0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview (max 500 Ko)'])[1]/preceding::label[2]</value>
+      <webElementGuid>4a6d52fd-d85c-4e6c-b107-3f6ddd8a1cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deprecated']/parent::*</value>
+      <webElementGuid>8bf7a2b0-0192-405c-8754-1bfe738fc010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/div/label</value>
+      <webElementGuid>5764e6f6-36f3-4f6a-9334-ecebe81455f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Deprecated' or . = 'Deprecated')]</value>
+      <webElementGuid>ea818db9-fba7-48c2-9309-578d735df852</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
